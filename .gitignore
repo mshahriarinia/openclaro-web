@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Editor / OS cruft
+*.swp
+.idea/
+.vscode/
+
+# Dependencies / build (none yet, here for when a stack is chosen)
+node_modules/
+dist/
+build/
+.env
+.env.local
