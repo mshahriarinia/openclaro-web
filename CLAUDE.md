@@ -60,8 +60,10 @@ Non-code aspects of the business live under `docs/` (all placeholders to be fill
 - `docs/gtm/go-to-market.md` — wedge sequencing, sales motion, first-10-customers plan.
 - `docs/marketing/marketing.md` — positioning, brand, channels, funnel, metrics.
 - `docs/research/competitor-research.md` — market sizing, competitor landscape, benchmarks.
+- `docs/adr/` — Architecture Decision Records (why we made significant choices).
 
 Keep these updated as decisions get made; cross-reference open decisions below.
+When you make a significant decision, add an ADR (see `docs/adr/README.md`).
 
 ## How to work in this repo
 
