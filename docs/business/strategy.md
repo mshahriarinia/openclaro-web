@@ -3,7 +3,10 @@
 > Status: **placeholder** — fill in as decisions are made.
 
 ## Vision & mission
-_TBD — one or two sentences on what Elivram is and why it exists._
+OpenClaro exists to bring openness and clarity to businesses: we identify and take on
+any part of a business that AI can competently handle, so owners can focus on what only
+they can do. "Open" — transparent about what the AI is doing and what it can/can't
+replace. "Claro" — clarity: measurable, understandable results instead of vague AI hype.
 
 ## Business model
 - Revenue model: _TBD (setup fee + monthly retainer? per-seat? per-outcome/performance?)_
@@ -26,4 +29,4 @@ _TBD_
 - [ ] Lead/wedge offer
 - [ ] First vertical
 - [ ] Pricing model
-- [ ] Company / product naming
+- [x] Company / product naming — OpenClaro

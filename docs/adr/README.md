@@ -1,6 +1,6 @@
 # Architecture Decision Records (ADRs)
 
-This directory records the significant decisions made on Elivram — technical and,
+This directory records the significant decisions made on OpenClaro — technical and,
 where they shape the product, business decisions too.
 
 An ADR captures **one decision**: the context that forced it, the choice made, and the

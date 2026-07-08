@@ -3,12 +3,14 @@
 > Status: **placeholder** — fill in as decisions are made.
 
 ## Positioning & messaging
-- One-liner: _TBD_
-- Core promise: _TBD (e.g. "Never miss a lead again")_
+- One-liner: Open about what AI can do. Clear about what it takes off your plate.
+- Core promise: We find the part of your business AI can run — and run it, transparently.
 - Differentiation: _TBD (why us over GoHighLevel / DIY / agencies)_
 
 ## Brand
-- Name: _TBD (project codename: Elivram)_
+- Name: **OpenClaro**
+- Mission: Be open, and add clarity to businesses, by picking up any part of the
+  business that can be handled by AI.
 - Tone/voice: _TBD_
 - Visual identity: _TBD_
 
@@ -27,5 +29,5 @@ _TBD — CAC, lead→demo→close rates, payback period._
 
 ## Open decisions
 - [ ] Primary marketing channel
-- [ ] Brand name & domain
+- [ ] Brand name & domain — name decided (OpenClaro), domain _TBD_
 - [ ] Demo/proof asset to build first

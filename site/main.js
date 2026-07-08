@@ -1,4 +1,4 @@
-// Elivram — minimal static-site interactivity
+// OpenClaro — minimal static-site interactivity
 (function () {
   "use strict";
 
@@ -19,8 +19,8 @@
   }
 
   // Demo form — placeholder handler (wire to a real backend/CRM later)
-  window.Elivram = window.Elivram || {};
-  window.Elivram.submit = function (event) {
+  window.OpenClaro = window.OpenClaro || {};
+  window.OpenClaro.submit = function (event) {
     event.preventDefault();
     var form = event.target;
     var note = document.getElementById("formNote");

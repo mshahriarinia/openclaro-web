@@ -6,7 +6,7 @@
 
 ## Context
 
-Elivram is pre-code and many foundational choices are still open (stack, wedge offer,
+OpenClaro is pre-code and many foundational choices are still open (stack, wedge offer,
 vertical, pricing). Decisions made now — and the reasoning behind them — will be easy to
 forget as the project grows and people join. We want a lightweight, durable record so
 future contributors understand *why* things are the way they are, not just *what* they are.

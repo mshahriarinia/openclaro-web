@@ -4,10 +4,14 @@ Guidance for working in this repository.
 
 ## What this is
 
-**Elivram** — a startup offering a catalog of done-for-you AI services to small and
+**OpenClaro** — a startup offering a catalog of done-for-you AI services to small and
 mid-sized businesses. The thesis: most local/SMB businesses leak revenue through slow
 or missed customer contact. Each service below plugs a specific, measurable leak and is
 sold on ROI ("recover N jobs/month and the fee pays for itself").
+
+**Brand mission:** be open about what AI can and can't do, and add clarity to businesses
+by taking on any part of the business that AI can competently handle — starting with the
+services in the catalog below.
 
 Status: **pre-code.** This repo currently holds only project documentation. No product
 code, stack, or infrastructure has been chosen yet.
