@@ -10,18 +10,17 @@ export default function HomePage() {
       <section className="hero">
         <div className="container hero-grid">
           <div className="hero-copy" data-reveal>
-            <p className="eyebrow">A catalog of AI services · $0 upfront</p>
-            <h1 className="display">AI that takes the action — <em>free until it pays off.</em></h1>
+            <p className="eyebrow">A catalog of AI services · Triple guaranteed</p>
+            <h1 className="display">Turn your business to an AI-assisted system that scales</h1>
             <p className="lead">
-              OpenClaro is a growing catalog of AI services that take real action inside your
+              OpenClaro offers a catalog of AI services that give your business discipline, prestige, system and scale. It takes actions inside your
               business — texting back missed calls, re-engaging cold leads, guarding against
-              no-shows, chatting with shoppers — each one a piece you pick up and embed with
-              almost no hands-on work from your team. No setup fee, no retainer: we earn a
-              commission only on the results each piece delivers.
+              no-shows, engaging with shoppers you can think of as concierge.
+              You are in the driver seat, AI is the engine.
             </p>
             <div className="hero-actions">
               <a href="#cta" className="btn btn-lg">Book a free revenue audit</a>
-              <a href="#services" className="btn btn-ghost btn-lg">See the six services</a>
+              <a href="#services" className="btn btn-ghost btn-lg">See the services catalog</a>
             </div>
             <ul className="hero-proof">
               <li><svg className="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5" /></svg>Live in days</li>
@@ -76,7 +75,9 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Team credibility */}
+      
+      {/** Team credibility 
+      
       <section className="credibility">
         <div className="container credibility-inner">
           <p className="credibility-label">Built by a team that has shipped AI at</p>
@@ -87,11 +88,11 @@ export default function HomePage() {
           </ul>
         </div>
       </section>
+      */}
 
       {/* Stats band */}
       <section className="stats">
         <div className="container stats-grid">
-          <div className="stat"><strong>$0</strong><span>upfront, ever</span></div>
           <div className="stat"><strong>6</strong><span>AI services in the catalog</span></div>
           <div className="stat"><strong>Days</strong><span>from kickoff to live</span></div>
           <div className="stat"><strong>Monthly</strong><span>money-back guarantee</span></div>
@@ -110,7 +111,6 @@ export default function HomePage() {
             <span className="op" aria-hidden="true">=</span>
             <span className="chip chip-result"><strong>$2,400</strong> / mo back on your books</span>
           </div>
-          <p className="math-note">Our commission comes out of revenue we recover — never out of pocket.</p>
         </div>
       </section>
 
