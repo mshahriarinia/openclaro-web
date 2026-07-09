@@ -10,6 +10,9 @@
 > Method: evaluated as a branding strategist / investor / enterprise buyer / first-time
 > visitor, with evidence cited from the actual page content. Wherever information isn't
 > observable on the site, that's stated explicitly rather than inferred.
+>
+> See [action-plan.md](action-plan.md) for the prioritized, actionable task list derived
+> from this audit's findings.
 
 ---
 

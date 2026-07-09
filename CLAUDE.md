@@ -33,6 +33,7 @@ Non-code aspects of the business live under `docs/` (all placeholders to be fill
 - `docs/business/pricing.md` — packaging, per-service pricing, ROI framing, cost-to-serve.
 - `docs/gtm/go-to-market.md` — wedge sequencing, sales motion, first-10-customers plan.
 - `docs/marketing/marketing.md` — positioning, brand, channels, funnel, metrics.
+- `docs/branding/` — homepage brand audits and the resulting action plans.
 - `docs/research/competitor-research.md` — market sizing, competitor landscape, benchmarks.
 - `docs/adr/` — Architecture Decision Records (why we made significant choices).
 

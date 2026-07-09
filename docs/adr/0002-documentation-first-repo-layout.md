@@ -20,6 +20,7 @@ CLAUDE.md                  # project context for AI/code assistants
 docs/business/             # strategy, pricing
 docs/gtm/                  # go-to-market
 docs/marketing/            # positioning, brand, channels
+docs/branding/             # brand audits & action plans
 docs/research/             # competitor & market research
 docs/adr/                  # architecture decision records
 app/                       # Next.js app (marketing site)

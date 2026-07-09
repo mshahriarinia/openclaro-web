@@ -17,6 +17,9 @@
   monthly, and your presence reverted to how it was if you leave.
 - Tone/voice: _TBD_
 - Visual identity: _TBD_
+- See [docs/branding/](../branding/) for the full homepage brand audit
+  ([brand-analysis.md](../branding/brand-analysis.md)) and the resulting action plan
+  ([action-plan.md](../branding/action-plan.md)).
 
 ## Channels
 - Website / landing pages: _TBD_
