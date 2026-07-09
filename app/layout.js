@@ -19,13 +19,13 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "OpenClaro — AI That Recovers Your Lost Revenue · $0 Upfront",
+  title: "OpenClaro — A Catalog of AI Services for Your Business · $0 Upfront",
   description:
-    "Missed calls, cold leads, and no-shows are recoverable revenue. OpenClaro's done-for-you AI services catch them and book them — $0 upfront, we earn a commission only on jobs we recover. Leave any time.",
+    "OpenClaro is a growing catalog of AI services that take action inside your business — from missed-call recovery to review requests — $0 upfront, with a commission only on the results delivered. Leave any time.",
   openGraph: {
-    title: "OpenClaro — AI that recovers your lost revenue, free until it does",
+    title: "OpenClaro — A catalog of AI services, free until they pay off",
     description:
-      "Done-for-you AI services for businesses. $0 upfront — we earn a commission only on the jobs we recover. Backed by the Triple Guarantee.",
+      "Done-for-you AI services for businesses — each one a self-contained piece you can pick up and embed. $0 upfront. Backed by the Triple Guarantee.",
     type: "website",
   },
   icons: {

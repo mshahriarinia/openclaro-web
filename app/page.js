@@ -10,12 +10,14 @@ export default function HomePage() {
       <section className="hero">
         <div className="container hero-grid">
           <div className="hero-copy" data-reveal>
-            <p className="eyebrow">Done-for-you AI services · $0 upfront</p>
-            <h1 className="display">AI that recovers your lost revenue — <em>free until it does.</em></h1>
+            <p className="eyebrow">A catalog of AI services · $0 upfront</p>
+            <h1 className="display">AI that takes the action — <em>free until it pays off.</em></h1>
             <p className="lead">
-              Missed calls, cold leads, empty chairs. OpenClaro&apos;s managed AI catches the
-              customers you&apos;re already paying to attract — and books them before they move
-              on. No setup fee, no retainer: we earn a commission only on the jobs we recover.
+              OpenClaro is a growing catalog of AI services that take real action inside your
+              business — texting back missed calls, re-engaging cold leads, guarding against
+              no-shows, chatting with shoppers — each one a piece you pick up and embed with
+              almost no hands-on work from your team. No setup fee, no retainer: we earn a
+              commission only on the results each piece delivers.
             </p>
             <div className="hero-actions">
               <a href="#cta" className="btn btn-lg">Book a free revenue audit</a>
@@ -29,47 +31,47 @@ export default function HomePage() {
           </div>
 
           <div className="hero-demo" data-reveal>
-            <div className="demo-card" role="img" aria-label="Example: a missed call is texted back by AI within seconds and becomes a booked $1,850 job">
+            <div className="demo-card" role="img" aria-label="Example: four AI services from the OpenClaro catalog each taking independent action for a business this month">
               <div className="demo-head">
                 <span className="demo-dot" aria-hidden="true"></span>
-                Missed-call text-back · <strong>live</strong>
+                OpenClaro catalog · <strong>live</strong>
               </div>
               <ol className="demo-feed">
                 <li>
-                  <span className="demo-time">7:42 PM</span>
+                  <span className="demo-time">Mon 7:42p</span>
                   <div className="demo-body">
-                    <span className="badge badge-miss">Missed call</span>
-                    <p>(415) 555-0134 called after close.</p>
-                  </div>
-                </li>
-                <li>
-                  <span className="demo-time">7:42 PM</span>
-                  <div className="demo-body">
-                    <span className="badge badge-ai">AI texted back · 9 sec</span>
+                    <span className="badge badge-ai">Speed-to-lead</span>
                     <p className="bubble">Hi, this is Apex Plumbing — sorry we missed your call! How can we help?</p>
                   </div>
                 </li>
                 <li>
-                  <span className="demo-time">7:44 PM</span>
+                  <span className="demo-time">Tue 10:15a</span>
                   <div className="demo-body">
-                    <span className="badge badge-cust">Customer</span>
-                    <p className="bubble bubble-cust">Water heater&apos;s out. Can someone come tomorrow morning?</p>
+                    <span className="badge badge-miss">Reactivation</span>
+                    <p>90-day-old lead re-engaged by text — <strong>booked a consult</strong> for Thursday.</p>
                   </div>
                 </li>
                 <li>
-                  <span className="demo-time">7:45 PM</span>
+                  <span className="demo-time">Wed 8:00a</span>
                   <div className="demo-body">
-                    <span className="badge badge-book">Job booked</span>
-                    <p>Tomorrow 8:00 AM · Water heater replacement · <strong>est. $1,850</strong></p>
+                    <span className="badge badge-cust">No-show guard</span>
+                    <p>Reminder sent for tomorrow&apos;s 2:00 PM appointment — <strong>confirmed, slot secured</strong>.</p>
+                  </div>
+                </li>
+                <li>
+                  <span className="demo-time">Thu 4:30p</span>
+                  <div className="demo-body">
+                    <span className="badge badge-book">Reputation</span>
+                    <p>Job completed → review request sent — <strong>5-star review posted</strong>.</p>
                   </div>
                 </li>
               </ol>
               <div className="demo-tally">
-                <span>Recovered this month</span>
-                <span className="demo-figures"><strong>11 jobs</strong> · <strong>$14,300</strong></span>
+                <span>This month, across the catalog</span>
+                <span className="demo-figures"><strong>42 actions</strong> · <strong>$14,300</strong></span>
               </div>
             </div>
-            <p className="demo-caption">Illustrative example of one service — speed-to-lead + missed-call text-back.</p>
+            <p className="demo-caption">Illustrative example — a few of the AI services from the catalog, each acting independently.</p>
           </div>
         </div>
       </section>
@@ -78,7 +80,7 @@ export default function HomePage() {
       <section className="stats">
         <div className="container stats-grid">
           <div className="stat"><strong>$0</strong><span>upfront, ever</span></div>
-          <div className="stat"><strong>20–40%</strong><span>of inbound calls a typical business misses</span></div>
+          <div className="stat"><strong>6</strong><span>AI services in the catalog</span></div>
           <div className="stat"><strong>Days</strong><span>from kickoff to live</span></div>
           <div className="stat"><strong>Monthly</strong><span>money-back guarantee</span></div>
         </div>
@@ -87,8 +89,8 @@ export default function HomePage() {
       {/* The math */}
       <section className="math">
         <div className="container math-inner" data-reveal>
-          <h2 className="display">One missed call can be a $300–$5,000 job.</h2>
-          <p className="section-sub">You already paid to make the phone ring. Recovering what slips through is the cheapest revenue you&apos;ll ever add.</p>
+          <h2 className="display">A missed call, a cold lead, an empty chair — any one can be a $300–$5,000 job.</h2>
+          <p className="section-sub">You already paid to attract that customer. Recovering them with AI that acts on your behalf is the cheapest revenue you&apos;ll ever add.</p>
           <div className="equation" aria-label="Example: 3 recovered jobs per month times 800 dollar average ticket equals 2,400 dollars per month back on your books">
             <span className="chip"><strong>3</strong> recovered jobs / mo</span>
             <span className="op" aria-hidden="true">×</span>
@@ -105,8 +107,10 @@ export default function HomePage() {
         <div className="container">
           <div className="section-head" data-reveal>
             <p className="eyebrow">The catalog</p>
-            <h2 className="display">Six services. One deal: we only earn when you do.</h2>
-            <p className="section-sub">Start with the leak that hurts most. Expand when the numbers prove out.</p>
+            <h2 className="display">Six AI pieces. Pick what fits, add more anytime.</h2>
+            <p className="section-sub">Each service is a self-contained AI piece you plug into your business — start with the
+            leak that hurts most, and add more as the numbers prove out. Every piece you add makes
+            your business a little more efficient, streamlined, predictable, and futuristic.</p>
           </div>
 
           <div className="cards">
@@ -121,10 +125,10 @@ export default function HomePage() {
               <p className="card-metric">Respond in seconds, not hours.</p>
             </article>
 
-            <article className="card card-featured" data-reveal>
+            <article className="card" data-reveal>
               <div className="card-top">
                 <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a12 12 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z" /></svg></span>
-                <span className="card-tag">Flagship</span>
+                <span className="card-tag">High job value</span>
               </div>
               <h3>AI voice receptionist</h3>
               <p>After hours, on a job, double-booked — the AI answers every call, books the
@@ -197,8 +201,9 @@ export default function HomePage() {
             <div className="step" data-reveal>
               <span className="step-num display">02</span>
               <h3>Deploy the AI</h3>
-              <p>We set up and tune the right service to your business, connect it to your
-              phone, calendar, and CRM — and you approve everything before it goes live.</p>
+              <p>We set up and tune the right piece for your business, connect it to the tools
+              you already run on — phone, calendar, CRM, and beyond — and you approve everything
+              before it goes live.</p>
             </div>
             <div className="step" data-reveal>
               <span className="step-num display">03</span>
