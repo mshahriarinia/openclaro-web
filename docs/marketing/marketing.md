@@ -5,12 +5,16 @@
 ## Positioning & messaging
 - One-liner: Open about what AI can do. Clear about what it takes off your plate.
 - Core promise: We find the part of your business AI can run — and run it, transparently.
-- Differentiation: _TBD (why us over GoHighLevel / DIY / agencies)_
+- Differentiation: Free to start, paid only on results (commission on jobs recovered),
+  backed by the Triple Guarantee — removes the financial risk that agencies and DIY
+  tooling don't address. _(Rest of the comparison vs. GoHighLevel/DIY still TBD.)_
 
 ## Brand
 - Name: **OpenClaro**
 - Mission: Be open, and add clarity to businesses, by picking up any part of the
   business that can be handled by AI.
+- Promise: OpenClaro's Triple Guarantee — leave any time, money back guaranteed
+  monthly, and your presence reverted to how it was if you leave.
 - Tone/voice: _TBD_
 - Visual identity: _TBD_
 

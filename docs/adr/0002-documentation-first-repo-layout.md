@@ -1,4 +1,4 @@
-# 0003. Documentation-first repo layout
+# 0002. Documentation-first repo layout
 
 - **Status:** Accepted
 - **Date:** 2026-06-26

@@ -1,4 +1,4 @@
-# 0002. No-build static landing site
+# 0001. No-build static landing site
 
 - **Status:** Accepted
 - **Date:** 2026-06-26
