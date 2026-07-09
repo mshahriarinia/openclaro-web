@@ -11,11 +11,35 @@
   var links = document.querySelector(".nav-links");
   if (toggle && links) {
     toggle.addEventListener("click", function () {
-      links.classList.toggle("open");
+      var open = links.classList.toggle("open");
+      toggle.setAttribute("aria-expanded", open ? "true" : "false");
     });
     links.addEventListener("click", function (e) {
-      if (e.target.tagName === "A") links.classList.remove("open");
+      if (e.target.closest("a")) {
+        links.classList.remove("open");
+        toggle.setAttribute("aria-expanded", "false");
+      }
     });
+  }
+
+  // Reveal-on-scroll (skipped when the user prefers reduced motion)
+  var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var revealEls = document.querySelectorAll("[data-reveal]");
+  if (!reduceMotion && "IntersectionObserver" in window) {
+    var observer = new IntersectionObserver(
+      function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("is-visible");
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      { rootMargin: "0px 0px -8% 0px" }
+    );
+    revealEls.forEach(function (el) { observer.observe(el); });
+  } else {
+    revealEls.forEach(function (el) { el.classList.add("is-visible"); });
   }
 
   // Demo form — placeholder handler (wire to a real backend/CRM later)
