@@ -76,6 +76,18 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Team credibility */}
+      <section className="credibility">
+        <div className="container credibility-inner">
+          <p className="credibility-label">Built by a team that has shipped AI at</p>
+          <ul className="credibility-logos">
+            <li>X <span className="credibility-sub">(formerly Twitter)</span></li>
+            <li>Spotify</li>
+            <li>Dataminr</li>
+          </ul>
+        </div>
+      </section>
+
       {/* Stats band */}
       <section className="stats">
         <div className="container stats-grid">
