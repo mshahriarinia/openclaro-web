@@ -6,9 +6,11 @@
 .idea/
 .vscode/
 
-# Dependencies / build (none yet, here for when a stack is chosen)
+# Dependencies / build
 node_modules/
 dist/
 build/
+.next/
+.vercel/
 .env
 .env.local

@@ -1,6 +1,6 @@
 # 0001. No-build static landing site
 
-- **Status:** Accepted
+- **Status:** Superseded by [0004](0004-migrate-to-nextjs-app-router.md)
 - **Date:** 2026-06-26
 - **Deciders:** Founding team
 

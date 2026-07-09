@@ -11,9 +11,10 @@ supersedes the old one (and mark the old one `Superseded`).
 
 | # | Title | Status |
 |---|---|---|
-| [0001](0001-no-build-static-landing-site.md) | No-build static landing site | Accepted |
+| [0001](0001-no-build-static-landing-site.md) | No-build static landing site | Superseded by [0004](0004-migrate-to-nextjs-app-router.md) |
 | [0002](0002-documentation-first-repo-layout.md) | Documentation-first repo layout | Accepted |
 | [0003](0003-free-to-start-commission-pricing-with-triple-guarantee.md) | Free-to-start, commission-based pricing with a Triple Guarantee | Accepted |
+| [0004](0004-migrate-to-nextjs-app-router.md) | Migrate to Next.js App Router | Accepted |
 
 ## How to add one
 

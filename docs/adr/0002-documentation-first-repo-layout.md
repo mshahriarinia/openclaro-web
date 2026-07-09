@@ -22,7 +22,7 @@ docs/gtm/                  # go-to-market
 docs/marketing/            # positioning, brand, channels
 docs/research/             # competitor & market research
 docs/adr/                  # architecture decision records
-site/                      # static marketing site
+app/                       # Next.js app (marketing site)
 ```
 
 These start as structured placeholders and get filled in as decisions are made. Product
