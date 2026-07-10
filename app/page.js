@@ -11,15 +11,15 @@ export default function HomePage() {
         <div className="container hero-grid">
           <div className="hero-copy" data-reveal>
             <p className="eyebrow">Slow to respond. Fast to lose revenue.</p>
-            <h1 className="display">Turn your business to an AI-assisted system that scales</h1>
+            <h1 className="display">Run your business like a $100M brand — everywhere customers find you</h1>
             <p className="lead">
-              OpenClaro is a catalog of AI services that act inside your business —
-              texting back missed calls, reviving cold leads, guarding against no-shows.
-              You stay in control; AI does the work.
+              OpenClaro is the customer-experience platform for local businesses — one
+              consistent brand and voice across your website, Google Business, Yelp, calls,
+              and texts. You stay in control; AI does the work.
             </p>
             <div className="hero-actions">
               <a href="#cta" className="btn btn-lg">Book a free revenue audit</a>
-              <a href="#services" className="btn btn-ghost btn-lg">See the services catalog</a>
+              <a href="#modules" className="btn btn-ghost btn-lg">See the six modules</a>
             </div>
             <ul className="hero-proof">
               <li><svg className="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5" /></svg>Live in days</li>
@@ -29,31 +29,31 @@ export default function HomePage() {
           </div>
 
           <div className="hero-demo" data-reveal>
-            <div className="demo-card" role="img" aria-label="Example: four AI services from the OpenClaro catalog each taking independent action for a business this month">
+            <div className="demo-card" role="img" aria-label="Example: four OpenClaro modules each taking independent action for a business this month">
               <div className="demo-head">
                 <span className="demo-dot" aria-hidden="true"></span>
-                OpenClaro catalog · <strong>live</strong>
+                OpenClaro · <strong>live</strong>
               </div>
               <ol className="demo-feed">
                 <li>
                   <span className="demo-time">Mon 7:42p</span>
                   <div className="demo-body">
-                    <span className="badge badge-ai">Speed-to-lead</span>
+                    <span className="badge badge-ai">Concierge</span>
                     <p className="bubble">Hi, this is Apex Plumbing — sorry we missed your call! How can we help?</p>
                   </div>
                 </li>
                 <li>
                   <span className="demo-time">Tue 10:15a</span>
                   <div className="demo-body">
-                    <span className="badge badge-miss">Reactivation</span>
+                    <span className="badge badge-miss">Growth</span>
                     <p>90-day-old lead re-engaged by text — <strong>booked a consult</strong> for Thursday.</p>
                   </div>
                 </li>
                 <li>
                   <span className="demo-time">Wed 8:00a</span>
                   <div className="demo-body">
-                    <span className="badge badge-cust">No-show guard</span>
-                    <p>Reminder sent for tomorrow&apos;s 2:00 PM appointment — <strong>confirmed, slot secured</strong>.</p>
+                    <span className="badge badge-cust">Presence</span>
+                    <p>Google Business hours updated for the holiday weekend — <strong>kept accurate automatically</strong>.</p>
                   </div>
                 </li>
                 <li>
@@ -65,18 +65,18 @@ export default function HomePage() {
                 </li>
               </ol>
               <div className="demo-tally">
-                <span>This month, across the catalog</span>
+                <span>This month, across your modules</span>
                 <span className="demo-figures"><strong>42 actions</strong> · <strong>$14,300</strong></span>
               </div>
             </div>
-            <p className="demo-caption">Illustrative example — a few of the AI services from the catalog, each acting independently.</p>
+            <p className="demo-caption">Illustrative example — a few of the OpenClaro modules, each acting independently.</p>
           </div>
         </div>
       </section>
 
-      
-      {/** Team credibility 
-      
+
+      {/** Team credibility
+
       <section className="credibility">
         <div className="container credibility-inner">
           <p className="credibility-label">Built by a team that has shipped AI at</p>
@@ -113,38 +113,49 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Services */}
-      <section className="section" id="services">
+      {/* Modules */}
+      <section className="section" id="modules">
         <div className="container">
           <div className="section-head" data-reveal>
-            <p className="eyebrow">The catalog</p>
-            <h2 className="display">Six AI pieces. Pick what fits, add more anytime.</h2>
-            <p className="section-sub">Each service is a self-contained AI piece you plug into your business — start with the
-            leak that hurts most, and add more as the numbers prove out. Every piece you add makes
-            your business a little more efficient, streamlined, predictable, and futuristic.</p>
+            <p className="eyebrow">The platform</p>
+            <h2 className="display">Six modules. One consistent brand, everywhere customers find you.</h2>
+            <p className="section-sub">Start with the module that fixes the leak that hurts most — a stale listing,
+            a missed call, a cold lead — and add more as the numbers prove out. Every module you add makes
+            your business more efficient, streamlined, predictable, and on-brand.</p>
           </div>
 
           <div className="cards">
             <article className="card" data-reveal>
               <div className="card-top">
-                <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinejoin="round" aria-hidden="true"><path d="M13 2 4.5 13.5H11L10 22l8.5-11.5H13z" /></svg></span>
-                <span className="card-tag">Easiest first win</span>
+                <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M6 3h10l-2.5 4.5L16 12H6V3z" /><path d="M6 12v9" /></svg></span>
+                <span className="card-tag">Do this once</span>
               </div>
-              <h3>Speed-to-lead + missed-call text-back</h3>
-              <p>Web leads and missed calls go cold in minutes. An instant, natural text
-              starts the conversation while intent is hot.</p>
-              <p className="card-metric">Respond in seconds, not hours.</p>
+              <h3>Brand</h3>
+              <p>We rebuild and standardize your website, Google Business profile, Yelp, and
+              social pages so they look, read, and sound like one company — not five different ones.</p>
+              <p className="card-metric">One look. One voice. Everywhere.</p>
+            </article>
+
+            <article className="card" data-reveal>
+              <div className="card-top">
+                <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M12 21s7-7.6 7-12.5A7 7 0 0 0 5 8.5C5 13.4 12 21 12 21z" /><circle cx="12" cy="8.5" r="2.5" /></svg></span>
+                <span className="card-tag">Runs continuously</span>
+              </div>
+              <h3>Presence</h3>
+              <p>Listings, local SEO, and photos stay accurate and ranked — hours, services,
+              seasonal offers — kept current automatically instead of going stale for months.</p>
+              <p className="card-metric">Never caught with an outdated listing.</p>
             </article>
 
             <article className="card" data-reveal>
               <div className="card-top">
                 <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a12 12 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z" /></svg></span>
-                <span className="card-tag">High job value</span>
+                <span className="card-tag">Never miss a customer</span>
               </div>
-              <h3>AI voice receptionist</h3>
-              <p>After hours, on a job, double-booked — the AI answers every call, books the
-              job on your calendar, and dispatches. One missed call can be a $300–$5,000 job.</p>
-              <p className="card-metric">Never send a caller to voicemail again.</p>
+              <h3>Concierge</h3>
+              <p>Voice, text, and chat agents answer every call and message, book the job,
+              explain pricing, and follow up — with the tone of a premium front desk, not a bot.</p>
+              <p className="card-metric">Never send a customer to voicemail again.</p>
             </article>
 
             <article className="card" data-reveal>
@@ -152,44 +163,32 @@ export default function HomePage() {
                 <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M21 12a9 9 0 1 1-2.64-6.36L21 8" /><path d="M21 3v5h-5" /></svg></span>
                 <span className="card-tag">Prove it fast</span>
               </div>
-              <h3>Database reactivation + nurture</h3>
-              <p>You&apos;re sitting on hundreds of dead leads and past customers. An AI campaign
-              books appointments in week one from a list you already own — then keeps it warm.</p>
-              <p className="card-metric">Revenue from contacts you already have.</p>
-            </article>
-
-            <article className="card" data-reveal>
-              <div className="card-top">
-                <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2" /><path d="M3 10h18M8 3v4M16 3v4" /></svg></span>
-                <span className="card-tag">Measurable</span>
-              </div>
-              <h3>Booking + no-show reduction</h3>
-              <p>An empty chair is pure lost revenue — $200–$1,000 for practices. Automated
-              confirmations, reminders, and easy rescheduling, with the no-show rate tracked
-              before vs. after.</p>
-              <p className="card-metric">Fewer empty slots, full days.</p>
+              <h3>Growth</h3>
+              <p>Reactivation campaigns, referral asks, and appointment reminders turn
+              contacts you already have — and slots that would sit empty — into booked revenue.</p>
+              <p className="card-metric">Revenue from customers you already paid to acquire.</p>
             </article>
 
             <article className="card" data-reveal>
               <div className="card-top">
                 <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinejoin="round" aria-hidden="true"><path d="M12 3l2.9 5.9 6.5.9-4.7 4.6 1.1 6.4L12 17.8 6.2 20.8l1.1-6.4L2.6 9.8l6.5-.9z" /></svg></span>
-                <span className="card-tag">Bundle add-on</span>
+                <span className="card-tag">Compounds over time</span>
               </div>
-              <h3>Reputation / review engine</h3>
-              <p>More reviews mean higher local ranking and more leads. Automated post-service
-              review requests, with unhappy customers routed to private feedback first.</p>
+              <h3>Reputation</h3>
+              <p>Automated review requests after every job, with unhappy customers routed
+              to private feedback first, compound your local ranking month over month.</p>
               <p className="card-metric">Climb the local rankings on autopilot.</p>
             </article>
 
             <article className="card" data-reveal>
               <div className="card-top">
-                <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M6 8h12l-1.2 12.2a1.8 1.8 0 0 1-1.8 1.8H9a1.8 1.8 0 0 1-1.8-1.8L6 8z" /><path d="M9 10V7a3 3 0 0 1 6 0v3" /></svg></span>
-                <span className="card-tag">E-commerce</span>
+                <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M5 21V11M11 21V5M17 21v-7" /><path d="M3 21h18" /></svg></span>
+                <span className="card-tag">See what you earned</span>
               </div>
-              <h3>AI live selling agent</h3>
-              <p>An AI that talks with shoppers as they browse your catalog — answering
-              questions and guiding them to checkout in real time.</p>
-              <p className="card-metric">A salesperson on every product page.</p>
+              <h3>Insights</h3>
+              <p>A monthly report of what came back — jobs recovered, response times, reviews
+              earned — so you see exactly what changed and what we earned.</p>
+              <p className="card-metric">Every dollar recovered, logged and reported.</p>
             </article>
           </div>
         </div>
@@ -211,16 +210,16 @@ export default function HomePage() {
             </div>
             <div className="step" data-reveal>
               <span className="step-num display">02</span>
-              <h3>Deploy the AI</h3>
-              <p>We set up and tune the right piece for your business, connect it to the tools
-              you already run on — phone, calendar, CRM, and beyond — and you approve everything
-              before it goes live.</p>
+              <h3>Set up your modules</h3>
+              <p>We set up and tune the right module for your business, connect it to the
+              tools you already run on — phone, calendar, CRM, and beyond — and you approve
+              everything before it goes live.</p>
             </div>
             <div className="step" data-reveal>
               <span className="step-num display">03</span>
               <h3>Measure the lift</h3>
-              <p>Jobs recovered, response times, no-show rate — every action is logged and
-              reported monthly, so you see exactly what came back and what we earned.</p>
+              <p>Jobs recovered, response times, no-show rate — every action is logged in
+              your Insights report, so you see exactly what came back and what we earned.</p>
             </div>
           </div>
         </div>
@@ -239,19 +238,19 @@ export default function HomePage() {
               <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M4 11l8-7 8 7" /><path d="M6 9.5V20h12V9.5" /></svg></span>
               <h3>Home services</h3>
               <p>Plumbing, HVAC, electrical, roofing. Phone-driven and high job value —
-              missed calls and slow lead response hurt the most here.</p>
+              Concierge and Growth land hardest here.</p>
             </div>
             <div className="vertical" data-reveal>
               <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9" /><path d="M12 8v8M8 12h8" /></svg></span>
               <h3>Medical, dental &amp; med-spa</h3>
-              <p>No-shows and booking are the core pain. Confirmations and reminders that
-              keep chairs full — tracked before vs. after.</p>
+              <p>No-shows and booking are the core pain. Concierge confirmations and
+              reminders keep chairs full — tracked before vs. after.</p>
             </div>
             <div className="vertical" data-reveal>
               <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M6 8h12l-1.2 12.2a1.8 1.8 0 0 1-1.8 1.8H9a1.8 1.8 0 0 1-1.8-1.8L6 8z" /><path d="M9 10V7a3 3 0 0 1 6 0v3" /></svg></span>
               <h3>E-commerce &amp; retail</h3>
-              <p>Online stores that want a live AI selling agent guiding shoppers through
-              the catalog and into checkout in real time.</p>
+              <p>Online stores that want a Concierge agent guiding shoppers through your
+              product lineup and into checkout in real time.</p>
             </div>
           </div>
         </div>

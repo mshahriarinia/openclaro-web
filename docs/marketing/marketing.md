@@ -3,11 +3,18 @@
 > Status: **placeholder** — fill in as decisions are made.
 
 ## Positioning & messaging
+- Category: **The customer-experience platform for local businesses** — not "a catalog
+  of AI services." AI is the delivery mechanism, not the pitch.
 - One-liner: Open about what AI can do. Clear about what it takes off your plate.
-- Core promise: We find the part of your business AI can run — and run it, transparently.
+- Core promise: One consistent, premium brand and voice across every place a customer
+  finds you — website, Google Business, Yelp, calls, texts, reviews.
+- Product structure: six modules — Brand, Presence, Concierge, Growth, Reputation,
+  Insights (see `CLAUDE.md`) — sold and adopted independently, expanding over time.
 - Differentiation: Free to start, paid only on results (commission on jobs recovered),
   backed by the Triple Guarantee — removes the financial risk that agencies and DIY
   tooling don't address. _(Rest of the comparison vs. GoHighLevel/DIY still TBD.)_
+- Lead with outcomes (jobs recovered, booked appointments, reviews earned), not with
+  "AI" — see [docs/branding/](../branding/) for why.
 
 ## Brand
 - Name: **OpenClaro**

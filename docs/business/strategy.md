@@ -8,6 +8,13 @@ any part of a business that AI can competently handle, so owners can focus on wh
 they can do. "Open" — transparent about what the AI is doing and what it can/can't
 replace. "Claro" — clarity: measurable, understandable results instead of vague AI hype.
 
+Positioning (as of 2026-07-10): OpenClaro is **the customer-experience platform for
+local businesses**, not an "AI services catalog." The product ships as six modules —
+Brand, Presence, Concierge, Growth, Reputation, Insights (see `CLAUDE.md`'s Modules
+section) — that together make every customer touchpoint feel like the same premium
+company. AI is the delivery mechanism, not the pitch; lead with the customer-experience/
+revenue outcome.
+
 ## Business model
 - Revenue model: **Free to start, commission on jobs recovered** (per-outcome/
   performance pricing). No setup fee, no monthly retainer. Backed by OpenClaro's
@@ -29,7 +36,7 @@ text-back (cheapest to run, easiest first sale)._
 
 Ordered roughly by ease-of-sale / strength of offer.
 
-### Organic outlook
+### Organic outlook (Brand + Presence + Insights modules)
 Any place this business has presence: 
 - Website: 
     - Update the description, services, details
@@ -54,30 +61,30 @@ Similarly for Facebook page, Instagram, TikTok.
 
 ### Paid outlook - ads (in pilot)
 
-### Inbound and outbound voice/text agent
+### Inbound and outbound voice/text agent (Concierge + Growth modules)
 1. **Speed-to-lead + missed-call text-back** — *Easiest first sale; brutal ROI.*
-   Web leads and missed calls go cold in minutes. An instant auto-text starts the
-   conversation while intent is hot. Cheap to run.
+   Module: Concierge. Web leads and missed calls go cold in minutes. An instant
+   auto-text starts the conversation while intent is hot. Cheap to run.
 
 2. **AI voice front office** — *Strongest offer for phone-driven businesses.*
-   Businesses miss 20–40% of inbound calls (after hours, on jobs, double-booked). In home services one missed call can be a $300–$5,000 job. Recovering 2–3 jobs/mo makes
+   Module: Concierge. Businesses miss 20–40% of inbound calls (after hours, on jobs, double-booked). In home services one missed call can be a $300–$5,000 job. Recovering 2–3 jobs/mo makes
    the fee trivial.
    Product offering: 
      - During work hours: Take the call, book the job on the CRM, dispatch the technician 
      - After hours: Take the call, book the job on the CRM
 
 3. **Database reactivation + lead nurture** — *Best "prove it fast" offer.*
-   Businesses sit on hundreds of dead leads/past customers. An AI reactivation campaign books appointments in week one from a list they already own; ongoing nurture keeps it warm. Birthday reminders, Giftcards for referrals.
+   Module: Growth. Businesses sit on hundreds of dead leads/past customers. An AI reactivation campaign books appointments in week one from a list they already own; ongoing nurture keeps it warm. Birthday reminders, Giftcards for referrals.
 
 4. **Appointment booking + no-show reduction** — *Measurable before/after.*
-   No-shows are pure lost revenue for practices (an empty dental/med-spa chair = $200–
+   Module: Concierge (booking/reminders) + Growth (campaigns). No-shows are pure lost revenue for practices (an empty dental/med-spa chair = $200–
    $1,000). Automated confirmations, reminders, easy rescheduling. Track no-show rate before vs. after.
 
 5. **Reputation / review engine** — *Bundle add-on, not a flagship.*
-   More reviews → higher local map ranking → more leads. Automated post-service review requests; route unhappy customers to private feedback.
+   Module: Reputation. More reviews → higher local map ranking → more leads. Automated post-service review requests; route unhappy customers to private feedback.
 
-6. **AI live selling agent** — *E-commerce / catalog play.*
-   Talks to customers as they browse a product catalog, answering questions and guiding purchases in real time.
+6. **AI live selling agent** — *E-commerce play.*
+   Module: Concierge. Talks to customers as they browse a product catalog, answering questions and guiding purchases in real time.
 
 ## Candidate verticals
 

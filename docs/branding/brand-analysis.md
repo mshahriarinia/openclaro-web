@@ -25,6 +25,29 @@
 >   monthly"), for the same reason. Note this does **not** need to be counted alongside
 >   the "$0-risk repeated four times" critique in Section 4/15 — it's a different claim
 >   (transparency, not risk-removal) from the guarantee messaging already in stat 3.
+> - 2026-07-10 — **Category repositioning.** Following an external brand critique
+>   (independently converging with this audit's own Sections 2/9/15/18 — "the biggest
+>   weakness is the category definition," "you're not selling AI, you're selling
+>   recovered revenue / a premium customer experience"), OpenClaro's homepage no longer
+>   pitches "a catalog of AI services." It's now positioned as **the customer-experience
+>   platform for local businesses**, and the six service cards were regrouped into six
+>   named modules: **Brand, Presence, Concierge, Growth, Reputation, Insights** (see
+>   `CLAUDE.md`'s Modules section). "AI" and "catalog"/"piece" language was pulled back
+>   throughout in favor of outcome language, per this audit's Section 4 note ("You use AI
+>   too much... talk about recovered jobs, booked appointments, filled calendars").
+>   The hero headline changed from "Turn your business to an AI-assisted system that
+>   scales" to "Run your business like a $100M brand — everywhere customers find you,"
+>   pulling directly from `CLAUDE.md`'s existing "$100M organization" mission language
+>   instead of inventing new positioning from scratch.
+>   **Deliberately NOT done in this pass** (see the conversation that drove this change):
+>   fabricating trust signals (logos, testimonials, case studies, screenshots) — none
+>   exist yet, and inventing them would break the "No BS" promise that's core to the
+>   brand. A dedicated proof section should be added for real once there's something real
+>   to show (Tier 2 of `action-plan.md`). The page's information architecture (section
+>   order) was also left unchanged — this pass was positioning/content, not structural.
+>   Sections 1–20 below predate this change and should be read with that in mind; a full
+>   re-audit against the new positioning is worth doing once there's traffic to test
+>   against.
 
 ---
 

@@ -14,12 +14,12 @@ export default function NavMenu() {
           if (e.target.closest("a")) setOpen(false);
         }}
       >
-        <a href="#services">Services</a>
+        <a href="#modules">Modules</a>
         <a href="#how">How it works</a>
         <a href="#guarantee">Guarantee</a>
         <a href="#verticals">Who it&apos;s for</a>
         <a href="#faq">FAQ</a>
-        <a href="#cta" className="btn btn-sm">Book a demo</a>
+        <a href="#cta" className="btn btn-sm">Book a free revenue audit</a>
       </nav>
       <button
         className="nav-toggle"

@@ -18,10 +18,8 @@ compounds more once Tier 1–2 give it something real to point to.
 
 ## Tier 1 — Quick wins (ship this week)
 
-- [ ] **Standardize all CTA copy to one phrase.** Currently three variants exist: nav
-  "Book a demo", hero "Book a free revenue audit", CTA button "Book my free audit".
-  Pick one (recommend "Book a free revenue audit") and use it everywhere, including the
-  nav link and footer.
+- [x] **Standardize all CTA copy to one phrase.** Done 2026-07-10 — "Book a free revenue
+  audit" now used in nav, hero, CTA button, and footer.
 - [ ] **Wire the CTA form to a real destination.** Right now `CtaForm.js` only shows a
   client-side thank-you message and discards the input (see `app/components/CtaForm.js`)
   — no lead is captured anywhere. Connect it to an email inbox, CRM, or even a simple
@@ -64,10 +62,12 @@ compounds more once Tier 1–2 give it something real to point to.
   ("never send a caller to voicemail again"). Choose one framing and apply it
   consistently — e.g. Caregiver: "we protect your revenue" vs. Hero: "you never lose a
   customer again."
-- [ ] **Develop a sharper category narrative** instead of a flat 6-service grid — e.g.
-  own the phrase "the AI revenue-recovery layer for local service businesses" and use it
-  consistently, framing the six services as a land-and-expand roadmap (matches the
-  actual GTM plan in `docs/gtm/go-to-market.md`) rather than a menu.
+- [x] **Develop a sharper category narrative** instead of a flat 6-service grid. Done
+  2026-07-10 — repositioned as "the customer-experience platform for local businesses,"
+  with the six services regrouped into six named modules (Brand, Presence, Concierge,
+  Growth, Reputation, Insights). See `CLAUDE.md`'s Modules section and the changelog
+  below. Still open: land-and-expand sequencing across modules isn't yet reflected as an
+  explicit roadmap on the page itself (see `docs/gtm/go-to-market.md`).
 - [ ] **Add an emotional/aspirational layer for the owner-operator audience** — the
   current copy is entirely operational/financial; add language that speaks to the
   underlying motivation (more time back, growing past being the bottleneck), not just

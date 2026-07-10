@@ -4,7 +4,8 @@
 
 ## Wedge & sequencing
 _TBD — which offer opens the door, what we expand into after. Current hypothesis:
-land with missed-call text-back → expand to voice receptionist + booking._
+land with missed-call text-back (Concierge module) → expand to voice receptionist +
+booking (Concierge) → Growth, Reputation, Brand, Presence, Insights as trust builds._
 
 ## Sales motion
 - Channel: _TBD (outbound cold call/email, local networking, partnerships, paid ads)_

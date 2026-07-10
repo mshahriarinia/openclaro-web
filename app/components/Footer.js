@@ -12,10 +12,10 @@ export default function Footer() {
         </a>
         <p>Open about what AI can do. Clear about what it recovers.</p>
         <nav className="footer-links">
-          <a href="#services">Services</a>
+          <a href="#modules">Modules</a>
           <a href="#guarantee">Guarantee</a>
           <a href="#faq">FAQ</a>
-          <a href="#cta">Book a demo</a>
+          <a href="#cta">Book a free revenue audit</a>
         </nav>
         <p className="copyright">© <Year /> OpenClaro. All rights reserved.</p>
       </div>
