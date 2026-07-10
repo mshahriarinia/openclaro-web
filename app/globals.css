@@ -522,3 +522,20 @@ a { color: inherit; text-decoration: none; }
     box-shadow: 0 16px 32px -16px rgba(16, 27, 20, 0.15);
   }
 }
+
+/* Print */
+@media print {
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+    color-adjust: exact !important;
+  }
+  /* Scroll-reveal leaves anything not yet scrolled past as invisible/offset —
+     force it all visible so printing doesn't depend on scroll position. */
+  [data-reveal] {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+  .site-header { position: static !important; }
+}
