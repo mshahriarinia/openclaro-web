@@ -10,7 +10,7 @@ export default function HomePage() {
       <section className="hero">
         <div className="container hero-grid">
           <div className="hero-copy" data-reveal>
-            <p className="eyebrow">A catalog of AI services · Triple guaranteed</p>
+            <p className="eyebrow">Slow to respond. Fast to lose revenue.</p>
             <h1 className="display">Turn your business to an AI-assisted system that scales</h1>
             <p className="lead">
               OpenClaro offers a catalog of AI services that give your business discipline, prestige, system and scale. It takes actions inside your
@@ -93,7 +93,7 @@ export default function HomePage() {
       {/* Stats band */}
       <section className="stats">
         <div className="container stats-grid">
-          <div className="stat"><strong>6</strong><span>AI services in the catalog</span></div>
+          <div className="stat"><strong>Every action</strong><span>logged and reported monthly</span></div>
           <div className="stat"><strong>Days</strong><span>from kickoff to live</span></div>
           <div className="stat"><strong>Monthly</strong><span>money-back guarantee</span></div>
         </div>

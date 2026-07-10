@@ -14,6 +14,18 @@
 > See [action-plan.md](action-plan.md) for the prioritized, actionable task list derived
 > from this audit's findings.
 
+> **Changelog (post-audit):**
+> - 2026-07-10 — Hero eyebrow changed from a catalog/guarantee label to a pain-led
+>   tagline: "Slow to respond. Fast to lose revenue." Rationale: business owners don't
+>   respond to catalog size or feature counts, only to the cost of inaction — see
+>   Section 18's rewrite suggestions for the same instinct applied to the headline.
+>   Any eyebrow copy quoted elsewhere in this audit (Section 1) predates this change.
+> - 2026-07-10 — Stats band's first tile changed from the vanity count "6 AI services in
+>   the catalog" to a process-transparency claim ("Every action / logged and reported
+>   monthly"), for the same reason. Note this does **not** need to be counted alongside
+>   the "$0-risk repeated four times" critique in Section 4/15 — it's a different claim
+>   (transparency, not risk-removal) from the guarantee messaging already in stat 3.
+
 ---
 
 ## 1. First Impression (5 seconds)
