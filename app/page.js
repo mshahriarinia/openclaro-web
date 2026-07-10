@@ -13,10 +13,9 @@ export default function HomePage() {
             <p className="eyebrow">Slow to respond. Fast to lose revenue.</p>
             <h1 className="display">Turn your business to an AI-assisted system that scales</h1>
             <p className="lead">
-              OpenClaro offers a catalog of AI services that give your business discipline, prestige, system and scale. It takes actions inside your
-              business — texting back missed calls, re-engaging cold leads, guarding against
-              no-shows, engaging with shoppers you can think of as concierge.
-              You are in the driver seat, AI is the engine.
+              OpenClaro is a catalog of AI services that act inside your business —
+              texting back missed calls, reviving cold leads, guarding against no-shows.
+              You stay in control; AI does the work.
             </p>
             <div className="hero-actions">
               <a href="#cta" className="btn btn-lg">Book a free revenue audit</a>
