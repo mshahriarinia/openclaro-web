@@ -19,13 +19,13 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "OpenClaro — The Customer-Experience Platform for Local Businesses · $0 Upfront",
+  title: "OpenClaro — The Customer-Experience Platform for Local Businesses",
   description:
-    "OpenClaro standardizes your brand and runs your customer experience — website, Google Business, calls, texts, and reviews — as six AI-powered modules. $0 upfront, commission only on jobs recovered. Leave any time.",
+    "OpenClaro standardizes your brand and runs your customer experience — website, Google Business, calls, texts, and reviews — as six AI-powered modules. Custom pricing, quoted after a free consultation. Leave any time.",
   openGraph: {
     title: "OpenClaro — One premium customer experience, everywhere customers find you",
     description:
-      "Brand, Presence, Concierge, Growth, Reputation, Insights — six modules that make every customer touchpoint feel like the same premium company. $0 upfront. Backed by the Triple Guarantee.",
+      "Brand, Presence, Concierge, Growth, Reputation, Insights — six modules that make every customer touchpoint feel like the same premium company. Custom pricing. Backed by the Triple Guarantee.",
     type: "website",
   },
   icons: {

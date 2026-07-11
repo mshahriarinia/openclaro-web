@@ -10,9 +10,11 @@
   finds you — website, Google Business, Yelp, calls, texts, reviews.
 - Product structure: six modules — Brand, Presence, Concierge, Growth, Reputation,
   Insights (see `CLAUDE.md`) — sold and adopted independently, expanding over time.
-- Differentiation: Free to start, paid only on results (commission on jobs recovered),
-  backed by the Triple Guarantee — removes the financial risk that agencies and DIY
-  tooling don't address. _(Rest of the comparison vs. GoHighLevel/DIY still TBD.)_
+- Differentiation: Custom per-module pricing, quoted after a free consultation, backed
+  by the Triple Guarantee — removes the financial risk that agencies and DIY tooling
+  don't address, without a blanket public commission-rate claim (ADR 0005, superseding
+  the earlier free-to-start/commission-only positioning in ADR 0003). _(Rest of the
+  comparison vs. GoHighLevel/DIY still TBD.)_
 - Lead with outcomes (jobs recovered, booked appointments, reviews earned), not with
   "AI" — see [docs/branding/](../branding/) for why.
 

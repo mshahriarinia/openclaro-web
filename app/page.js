@@ -269,7 +269,7 @@ export default function HomePage() {
           <div className="section-head" data-reveal>
             <p className="eyebrow">Zero risk</p>
             <h2 className="display">The OpenClaro Triple Guarantee.</h2>
-            <p className="section-sub">Free to start. We earn a commission only on the jobs we recover.</p>
+            <p className="section-sub">Custom pricing per module, quoted after a free consultation — backed by our money-back guarantee.</p>
           </div>
           <div className="guar-grid">
             <div className="guar" data-reveal>

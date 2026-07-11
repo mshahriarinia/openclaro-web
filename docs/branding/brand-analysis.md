@@ -67,14 +67,16 @@
 >   recover nothing" framing in favor of "Each module would be expensed according to your
 >   business need. Please reach out to us for exact breakdown."; the "What counts as a
 >   'recovered job'?" FAQ entry was removed entirely.
->   **Open tension worth resolving:** this pulls back from the specific commission-on-
->   recovered-job claims that `CLAUDE.md`, [ADR 0003](../adr/0003-free-to-start-commission-pricing-with-triple-guarantee.md),
->   and `docs/business/pricing.md` still document as the decided pricing model. It's
->   unclear from the edit alone whether this is (a) a genuine move away from public
->   commission-pricing specifics toward a custom/negotiated-quote framing, or (b)
->   temporary softening while exact numbers are still TBD. Until clarified, treat
->   `CLAUDE.md`'s "FREE to start... commission on jobs recovered" line and ADR 0003 as
->   still authoritative for anything other than this page's copy.
+>   **Resolved 2026-07-11:** confirmed as (a), a genuine move to custom/negotiated
+>   per-module pricing — not temporary softening. Recorded in
+>   [ADR 0005](../adr/0005-custom-per-module-pricing-replaces-commission-only.md), which
+>   supersedes ADR 0003; `CLAUDE.md`, `docs/business/strategy.md`,
+>   `docs/business/pricing.md`, `docs/marketing/marketing.md`, and
+>   `docs/gtm/go-to-market.md` were all updated to match. The one remaining
+>   inconsistency this surfaced — the Guarantee section's sub-line still claimed "Free
+>   to start. We earn a commission only on the jobs we recover." — was fixed to "Custom
+>   pricing per module, quoted after a free consultation — backed by our money-back
+>   guarantee."
 
 ---
 

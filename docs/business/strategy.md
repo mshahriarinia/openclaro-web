@@ -16,12 +16,15 @@ company. AI is the delivery mechanism, not the pitch; lead with the customer-exp
 revenue outcome.
 
 ## Business model
-- Revenue model: **Free to start, commission on jobs recovered** (per-outcome/
-  performance pricing). No setup fee, no monthly retainer. Backed by OpenClaro's
-  Triple Guarantee — leave any time, money back guaranteed monthly, presence reverted
-  to pre-engagement state if the customer leaves. See
-  [ADR 0003](../adr/0003-free-to-start-commission-pricing-with-triple-guarantee.md).
-- Pricing tiers: _TBD (commission rate per service — see docs/business/pricing.md)_
+- Revenue model: **Custom, per-module pricing**, quoted after a free consultation — no
+  blanket public commission rate. Backed by OpenClaro's Triple Guarantee — leave any
+  time, money back guaranteed, presence reverted to pre-engagement state if the customer
+  leaves. See [ADR 0005](../adr/0005-custom-per-module-pricing-replaces-commission-only.md),
+  which supersedes the original free-to-start/commission-only model
+  ([ADR 0003](../adr/0003-free-to-start-commission-pricing-with-triple-guarantee.md)) —
+  commission-only broke down once Brand/Presence/Insights modules had no natural
+  "recovered job" to attribute a commission to.
+- Pricing tiers: _TBD (per-module quote framework — see docs/business/pricing.md)_
 - Margins / cost-to-serve: _TBD (telephony minutes, LLM tokens, SMS, support)_
 
 ## ICP (Ideal Customer Profile)
@@ -98,5 +101,6 @@ _TBD_
 ## Open decisions
 - [ ] Lead/wedge offer
 - [ ] First vertical
-- [x] Pricing model — free to start, commission on jobs recovered (ADR 0003)
+- [x] Pricing model — custom, per-module pricing quoted after a consultation (ADR 0005,
+  superseding ADR 0003)
 - [x] Company / product naming — OpenClaro

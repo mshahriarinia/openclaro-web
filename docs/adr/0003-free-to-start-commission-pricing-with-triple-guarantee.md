@@ -1,6 +1,8 @@
 # 0003. Free-to-start, commission-based pricing with a Triple Guarantee
 
-- **Status:** Accepted
+- **Status:** Superseded by [0005](0005-custom-per-module-pricing-replaces-commission-only.md)
+  — the commission-only pricing claim no longer holds; the Triple Guarantee itself
+  carries forward unchanged.
 - **Date:** 2026-07-09
 - **Deciders:** Founding team
 
