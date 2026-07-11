@@ -11,20 +11,24 @@ export default function HomePage() {
         <div className="container hero-grid">
           <div className="hero-copy" data-reveal>
             <p className="eyebrow">Slow to respond. Fast to lose revenue.</p>
-            <h1 className="display">Run a world-class business, without the world-class price tag</h1>
+            <h1 className="display">One Brand. Every Customer Touchpoint.</h1>
             <p className="lead">
-              OpenClaro is the customer-experience platform for local businesses — one
-              consistent brand and voice across your website, Google Business, Yelp, calls,
-              and texts. You stay in control; AI does the work.
+              Never Leave Customers Unattended.
+              OpenClaro keeps your business responsive, consistent, and available 24/7 across calls, texts, social, your website, Google Business, Yelp, and more.
             </p>
-            <div className="hero-actions">
+            {/*<div className="hero-actions">
               <a href="#cta" className="btn btn-lg">Book a free revenue audit</a>
               <a href="#modules" className="btn btn-ghost btn-lg">See the six modules</a>
+            </div>
+            */}
+            <div className="hero-actions">
+              <a href="#cta" className="btn btn-lg">Book a free consultation</a>
+              {/*<a href="#modules" className="btn btn-ghost btn-lg">See the six modules</a>*/}
             </div>
             <ul className="hero-proof">
               <li><svg className="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5" /></svg>Live in days</li>
               <li><svg className="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5" /></svg>No contracts — leave any time</li>
-              <li><svg className="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5" /></svg>Money-back, monthly</li>
+              <li><svg className="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5" /></svg>Money-back, guarantee</li>
             </ul>
           </div>
 
