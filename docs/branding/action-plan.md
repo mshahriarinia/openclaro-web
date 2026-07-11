@@ -18,8 +18,9 @@ compounds more once Tier 1–2 give it something real to point to.
 
 ## Tier 1 — Quick wins (ship this week)
 
-- [x] **Standardize all CTA copy to one phrase.** Done 2026-07-10 — "Book a free revenue
-  audit" now used in nav, hero, CTA button, and footer.
+- [x] **Standardize all CTA copy to one phrase.** Done 2026-07-10, updated 2026-07-11 —
+  now "Book a free consultation" (was "Book a free revenue audit") in nav, hero, CTA
+  button, and footer.
 - [ ] **Wire the CTA form to a real destination.** Right now `CtaForm.js` only shows a
   client-side thank-you message and discards the input (see `app/components/CtaForm.js`)
   — no lead is captured anywhere. Connect it to an email inbox, CRM, or even a simple

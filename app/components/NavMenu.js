@@ -19,7 +19,7 @@ export default function NavMenu() {
         <a href="#guarantee">Guarantee</a>
         <a href="#verticals">Who it&apos;s for</a>
         <a href="#faq">FAQ</a>
-        <a href="#cta" className="btn btn-sm">Book a free revenue audit</a>
+        <a href="#cta" className="btn btn-sm">Book a free consultation</a>
       </nav>
       <button
         className="nav-toggle"

@@ -21,7 +21,7 @@ export default function CtaForm() {
         <input type="text" name="name" placeholder="Your name" required />
         <input type="email" name="email" placeholder="Work email" required />
         <input type="text" name="business" placeholder="Business name" />
-        <button type="submit" className="btn btn-lg">Book a free revenue audit</button>
+        <button type="submit" className="btn btn-lg">Book a free consultation</button>
       </form>
       <p className="cta-note" id="formNote">{note}</p>
     </>

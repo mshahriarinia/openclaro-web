@@ -15,7 +15,7 @@ export default function Footer() {
           <a href="#modules">Modules</a>
           <a href="#guarantee">Guarantee</a>
           <a href="#faq">FAQ</a>
-          <a href="#cta">Book a free revenue audit</a>
+          <a href="#cta">Book a free consultation</a>
         </nav>
         <p className="copyright">© <Year /> OpenClaro. All rights reserved.</p>
       </div>

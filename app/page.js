@@ -330,7 +330,7 @@ export default function HomePage() {
         <div className="container">
           <div className="cta-card" data-reveal>
             <h2 className="display">See what you&apos;re leaking — and what you&apos;d get back.</h2>
-            <p>Book a free revenue audit. We&apos;ll show you exactly where customers are
+            <p>Book a free consultation. We&apos;ll show you exactly where customers are
             slipping away, and what recovering them is worth.</p>
             <CtaForm />
             <p className="cta-small">Free · No commitment · About 20 minutes</p>
