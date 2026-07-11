@@ -11,7 +11,7 @@ export default function HomePage() {
         <div className="container hero-grid">
           <div className="hero-copy" data-reveal>
             <p className="eyebrow">Slow to respond. Fast to lose revenue.</p>
-            <h1 className="display">Run your business like a $100M brand — everywhere customers find you</h1>
+            <h1 className="display">Run a world-class business, without the world-class price tag</h1>
             <p className="lead">
               OpenClaro is the customer-experience platform for local businesses — one
               consistent brand and voice across your website, Google Business, Yelp, calls,
