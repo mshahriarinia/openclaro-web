@@ -15,7 +15,6 @@ export default function NavMenu() {
         }}
       >
         <a href="#modules">Modules</a>
-        <a href="#how">How it works</a>
         <a href="#guarantee">Guarantee</a>
         <a href="#verticals">Who it&apos;s for</a>
         <a href="#faq">FAQ</a>

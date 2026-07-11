@@ -48,6 +48,33 @@
 >   Sections 1–20 below predate this change and should be read with that in mind; a full
 >   re-audit against the new positioning is worth doing once there's traffic to test
 >   against.
+> - 2026-07-10/11 — **Hero headline iterated twice** post-repositioning: "Run your
+>   business like a $100M brand — everywhere customers find you" → "Run a world-class
+>   business, without the world-class price tag" → "One Brand. Every Customer
+>   Touchpoint." (current), with the lead paragraph rewritten to lead with availability
+>   ("Never Leave Customers Unattended... responsive, consistent, and available 24/7").
+>   **CTA copy standardized** on "Book a free consultation" (was "Book a free revenue
+>   audit") across nav, footer, hero, and the CTA section/form button.
+> - 2026-07-11 — **Sections removed from the live page (commented out, not deleted):**
+>   the Stats band and the "How it works" (Find the leak / Set up your modules / Measure
+>   the lift) section. The Verticals section's "$50M multi-location operations" sub-line
+>   was also removed. Fixed a resulting dead link: nav's "How it works" pointed at the
+>   now-absent `#how` anchor and has been removed from `NavMenu.js`.
+>   **Pricing/guarantee language softened:** the hero-proof bullet "Live in days" became
+>   "World-class customer service"; "Money back, monthly" became "Money back, guarantee"
+>   (both in hero-proof and the Guarantee section); the FAQ's "What does it cost?" answer
+>   dropped the specific "free to start, commission on jobs recovered, pay nothing if we
+>   recover nothing" framing in favor of "Each module would be expensed according to your
+>   business need. Please reach out to us for exact breakdown."; the "What counts as a
+>   'recovered job'?" FAQ entry was removed entirely.
+>   **Open tension worth resolving:** this pulls back from the specific commission-on-
+>   recovered-job claims that `CLAUDE.md`, [ADR 0003](../adr/0003-free-to-start-commission-pricing-with-triple-guarantee.md),
+>   and `docs/business/pricing.md` still document as the decided pricing model. It's
+>   unclear from the edit alone whether this is (a) a genuine move away from public
+>   commission-pricing specifics toward a custom/negotiated-quote framing, or (b)
+>   temporary softening while exact numbers are still TBD. Until clarified, treat
+>   `CLAUDE.md`'s "FREE to start... commission on jobs recovered" line and ADR 0003 as
+>   still authoritative for anything other than this page's copy.
 
 ---
 

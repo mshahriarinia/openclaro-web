@@ -26,7 +26,7 @@ export default function HomePage() {
               {/*<a href="#modules" className="btn btn-ghost btn-lg">See the six modules</a>*/}
             </div>
             <ul className="hero-proof">
-              <li><svg className="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5" /></svg>Live in days</li>
+              <li><svg className="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5" /></svg>World-class customer service</li>
               <li><svg className="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5" /></svg>No contracts — leave any time</li>
               <li><svg className="check" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5" /></svg>Money-back, guarantee</li>
             </ul>
@@ -94,13 +94,14 @@ export default function HomePage() {
       */}
 
       {/* Stats band */}
-      <section className="stats">
+      {/* <section className="stats">
         <div className="container stats-grid">
           <div className="stat"><strong>Every action</strong><span>logged and reported monthly</span></div>
           <div className="stat"><strong>Days</strong><span>from kickoff to live</span></div>
           <div className="stat"><strong>Monthly</strong><span>money-back guarantee</span></div>
         </div>
       </section>
+      */}
 
       {/* The math */}
       <section className="math">
@@ -199,6 +200,7 @@ export default function HomePage() {
       </section>
 
       {/* How it works */}
+      {/*
       <section className="section section-alt" id="how">
         <div className="container">
           <div className="section-head" data-reveal>
@@ -228,6 +230,7 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+      */}
 
       {/* Verticals */}
       <section className="section" id="verticals">
@@ -235,7 +238,7 @@ export default function HomePage() {
           <div className="section-head" data-reveal>
             <p className="eyebrow">Who it&apos;s for</p>
             <h2 className="display">Built for businesses where a missed contact costs real money.</h2>
-            <p className="section-sub">From owner-operated shops to $50M multi-location operations.</p>
+            {/*<p className="section-sub">From owner-operated shops to $50M multi-location operations.</p>*/}
           </div>
           <div className="verticals">
             <div className="vertical" data-reveal>
@@ -276,7 +279,7 @@ export default function HomePage() {
             </div>
             <div className="guar" data-reveal>
               <span className="icon-box"><svg className="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9" /><path d="M15 9.5c-.6-1-1.7-1.5-3-1.5-1.8 0-3 .9-3 2s1.2 1.7 3 2 3 1 3 2-1.2 2-3 2c-1.3 0-2.4-.5-3-1.5" /><path d="M12 6v2M12 16v2" /></svg></span>
-              <h3>Money back, monthly</h3>
+              <h3>Money back, guarantee</h3>
               <p>Guaranteed month by month — if we didn&apos;t deliver, you don&apos;t pay. Simple.</p>
             </div>
             <div className="guar" data-reveal>
@@ -299,16 +302,15 @@ export default function HomePage() {
           <div className="faq" data-reveal>
             <details open>
               <summary>What does it cost?</summary>
-              <p>Nothing upfront — no setup fee, no monthly retainer. Before anything goes
-              live we agree on a simple commission for each job we recover. If we recover
-              nothing, you pay nothing.</p>
+              <p>Each module would be expensed according to your business need. Please reach out to us for exact breakdown.</p>
             </details>
-            <details>
+            {/*<details>
               <summary>What counts as a &ldquo;recovered job&rdquo;?</summary>
               <p>We define it together before launch — for example, a booked appointment
               that came from a missed call we answered. Every recovered job is logged and
               itemized in your monthly report, so there&apos;s never a debate about the number.</p>
             </details>
+            */}
             <details>
               <summary>How fast can we go live?</summary>
               <p>Days, not months. We connect to your existing phone, calendar, and CRM,

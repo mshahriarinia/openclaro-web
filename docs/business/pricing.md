@@ -2,6 +2,16 @@
 
 > Status: **placeholder** — fill in as decisions are made.
 
+> **Note (2026-07-11):** the live homepage's FAQ no longer states the free-to-start/
+> commission-on-recovered-job specifics below — it now says "Each module would be
+> expensed according to your business need. Please reach out to us for exact
+> breakdown." That may be a deliberate move toward custom/negotiated pricing, or just
+> softening while exact numbers are still open. Until that's confirmed, this doc and
+> [ADR 0003](../adr/0003-free-to-start-commission-pricing-with-triple-guarantee.md)
+> remain the decided model — reconcile or supersede the ADR if the model is actually
+> changing, rather than letting the page and the docs drift apart. See the 2026-07-11
+> changelog entry in `docs/branding/brand-analysis.md` for the full diff.
+
 ## Pricing model
 **Free to start — no setup fee, no monthly retainer.** OpenClaro is paid a commission
 on the jobs/revenue we recover for the customer. Backed by OpenClaro's Triple Guarantee:
