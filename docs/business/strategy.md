@@ -96,7 +96,9 @@ Similarly for Facebook page, Instagram, TikTok.
 - **E-commerce / retail** — home for the live-selling agent.
 
 ## Key risks & assumptions
-_TBD_
+See `docs/business/data-and-integrations.md` for how each module actually sources
+customer/contact data, and the consent/compliance requirements (TCPA, opt-out handling)
+that come with contacting a reactivated or existing list. Otherwise _TBD_.
 
 ## Open decisions
 - [ ] Lead/wedge offer

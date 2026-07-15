@@ -40,6 +40,8 @@ Non-code aspects of the business live under `docs/` (all placeholders to be fill
 
 - `docs/business/strategy.md` — vision, business model, ICP, wedge offer, risks.
 - `docs/business/pricing.md` — packaging, per-service pricing, ROI framing, cost-to-serve.
+- `docs/business/data-and-integrations.md` — how each module actually gets customer/
+  contact data, and the consent/compliance requirements that come with it.
 - `docs/gtm/go-to-market.md` — wedge sequencing, sales motion, first-10-customers plan.
 - `docs/marketing/marketing.md` — positioning, brand, channels, funnel, metrics.
 - `docs/branding/` — homepage brand audits and the resulting action plans.
