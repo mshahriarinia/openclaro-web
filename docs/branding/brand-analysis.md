@@ -77,6 +77,11 @@
 >   to start. We earn a commission only on the jobs we recover." — was fixed to "Custom
 >   pricing per module, quoted after a free consultation — backed by our money-back
 >   guarantee."
+> - 2026-07-20 — Hero eyebrow changed again from "Slow to respond. Fast to lose revenue."
+>   to "Is your business alive? We bring it to life." Rationale: the pain-led framing
+>   quoted above is now stale — this replaces it with a question-led hook plus the
+>   "alive"/availability metaphor that also runs through the lead paragraph ("Never Leave
+>   Customers Unattended... available 24/7").
 
 ---
 

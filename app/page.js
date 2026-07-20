@@ -10,7 +10,7 @@ export default function HomePage() {
       <section className="hero">
         <div className="container hero-grid">
           <div className="hero-copy" data-reveal>
-            <p className="eyebrow">Slow to respond. Fast to lose revenue.</p>
+            <p className="eyebrow">Is your business alive? We bring it to life.</p>
             <h1 className="display">One Brand. Every Customer Touchpoint.</h1>
             <p className="lead">
               Never Leave Customers Unattended.
